@@ -1,0 +1,17 @@
+**** Fine Foods Recommendation Using Euclidean and Cosine Similarities ****
+
+1. The Source code is classified into Three folders.
+
+**For User Based Recommendation Open User_Based Folder and Execute the Run Jupyter Notebook File.
+
+The intermediate results will be stored in the Excel file. This is always a good practice inorder to keep track of the execution.
+
+The final Result will be present in a User_Recommendation.csv file 
+
+** For Product Based Recommendation Open Product_Based Folder and Execute the Jupyter Notebook File.
+
+The intermediate results will be stored in the Excel file. This is always a good practice inorder to keep track of the execution.
+
+The final Result will be present in a Product_Recommendation.csv file 
+
+** For Visualization Open Visualize Folder and Execute the Jupyter Notebook File TO get the resulting WordClouds.
